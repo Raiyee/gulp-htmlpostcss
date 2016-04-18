@@ -1,0 +1,37 @@
+{
+  "name": "gulp-htmlpostcss",
+  "version": "1.0.0",
+  "description": "Gulp plugin to process CSS within the <style> tags and inline style= attributes in your HTML using html-postcss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JounQin/gulp-htmlpostcss.git"
+  },
+  "keywords": [
+    "gulp",
+    "html",
+    "postcss",
+    "gulp-html-postcss",
+    "css",
+    "autoprefixer",
+    "html-autoprefixer"
+  ],
+  "author": "JounQin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JounQin/gulp-htmlpostcss/issues"
+  },
+  "homepage": "https://github.com/JounQin/gulp-htmlpostcss#readme",
+  "dependencies": {
+    "event-stream": "^3.3.2",
+    "html-postcss": "^0.1.2",
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "gulp": "^3.9.1"
+  }
+}
