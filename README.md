@@ -1,4 +1,6 @@
 # gulp-htmlpostcss
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JounQin/gulp-htmlpostcss.svg)](https://greenkeeper.io/)
 Gulp plugin to process CSS within the `<style>` tags and inline `style=` attributes in your HTML using [html-postcss](https://github.om/Rebelmail/html-postcss).
 
 #Usage
