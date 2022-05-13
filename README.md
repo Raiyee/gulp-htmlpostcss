@@ -1,5 +1,5 @@
 # gulp-htmlpostcss
-Gulp plugin to process CSS within the `<style>` tags and inline `style=` attributes in your HTML using [html-postcss](https://github.om/Rebelmail/html-postcss).
+Gulp plugin to process CSS within the `<style>` tags and inline `style=` attributes in your HTML using [html-postcss](https://github.com/Rebelmail/html-postcss).
 
 #Usage
 
